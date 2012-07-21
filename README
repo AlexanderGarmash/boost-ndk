@@ -1,3 +1,7 @@
+Build Boost with NDK for Android
+Library and Demos
 build boost with ndk for android
 for windows, use build-android.bat
 for linux, use build-android.sh
+
+2012.07.21
