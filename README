@@ -1,0 +1,3 @@
+build boost with ndk for android
+for windows, use build-android.bat
+for linux, use build-android.sh
